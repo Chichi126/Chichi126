@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chichi126&label=Profile%20views&color=0e75b6&style=flat" alt="chichi126" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m learning and exploring more about data**
 
 - 👯 As a Data Engineer, I understand the need for both large and startup organizations to harness their data's full potential, which will help to enable informed decision-making, drive business growth, and enhance profitability.**
 
