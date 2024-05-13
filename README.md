@@ -1,15 +1,15 @@
 ![MasterHead](https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif)
 <h1 align="center">Hi 👋, I'm Chinyere Nwigwe</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chichi126&label=Profile%20views&color=0e75b6&style=flat" alt="chichi126" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate with **Large or startup organizations strive to bring life and meaning to data so as to help in making the right decisions for business growth and profitability.**
+- 👯 As a Data Engineer, I understand the need for both large and startup organizations to harness their data's full potential, which will help to enable informed decision-making, drive business growth, and enhance profitability.**
 
-- 💬 Ask me about **SQL, Python, Excel, PowerBI**
+- 💬 Ask me about **SQL, Python, Cloud services, Cloud orchestration tools, Excel, PowerBI**
 
 - 📫 How to reach me **chinyere.nwigwe126@gmail.com**
 
