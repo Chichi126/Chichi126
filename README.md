@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chichi126&label=Profile%20views&color=0e75b6&style=flat" alt="chichi126" /> </p>
 
-- 🌱 I’m learning and exploring more about data**
 
 - 👯 As a Data Engineer dedicated to crafting robust and scalable data pipelines, I excel in transforming complex data ecosystems into actionable insights.
 - My expertise in designing, developing, and optimizing data workflows empowers organizations to harness their data effectively, driving strategic decision-making and fueling sustainable growth. By leveraging advanced technologies and best practices,
